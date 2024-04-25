@@ -1,4 +1,38 @@
-/* Add screen styles below */
-a.active {
-    font-weight: bold;
+body{
+    background: #FFFFFB;
+    margin:0 auto;
+
+}
+.title{
+    background:#C5CBEC;
+    height: 50px;
+    margin:0 auto;
+    padding:20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#inro{
+    font-family: Arial, Helvetica, sans-serif;
+    position:relative;
+    top:50px;
+    left:100px;}
+img{width:500px;
+    height:600px;
+    float:left;
+    padding:20px;
+    float:left;
+    position:relative;
+    top:50px;
+}
+.sec{
+    position: relative;
+    top:150px;
+}
+
+.fact{
+    position: relative;
+    top:150px;
+}
+.list{
+    position: relative;
+    top:150px;
 }
